@@ -1,0 +1,17 @@
+@import url('https://fonts.cdnfonts.com/css/genos');
+.lg-text{
+        font-size: 26px;
+}
+
+.img-home{
+        height: 400px;
+        width: 700px;
+}
+
+body{
+     background-color: lightgray;   
+}
+
+.eighties-header {
+        font-family: 'Genos', sans-serif;
+}
